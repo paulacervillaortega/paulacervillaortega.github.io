@@ -1,14 +1,13 @@
-# cmi.io
-
-(Plantilla de Proyecto) 
-
+# Portafolio 
+Web: https://paulacervillaortega.github.io
 ## Creación Multimedia Interactiva (Fac. Bellas artes)
 
-**Autor:** 
+**Autor:** Paula Cervilla Ortega
 
-**Título:** 
+**Título:** Portafolio artístico
 
-**Resumen:**
+**Resumen 
+Este es un portafolio artístico que contiene datos sobre mí y algunas obras que he realizado, además de un juego sobre un artista.
 
 **Licencia: (creative Commons)**
 
@@ -16,7 +15,7 @@
 ### Memoria del proyecto:
 
 
-Hola
+Este proyecto esta basado en un portafolio interactivo en el que el espectador decide qué ver y como verlo.
 
 
 
@@ -26,15 +25,7 @@ Hola
 
 ### comentarios
 
-Ejemplos de otros años: https://github.com/mgea/interart 
-
-Si queremos que el proyecto sea visible como página web, debemos renombra este respositorio (en *Settings*) y poner el siguiente nombre: XXXX.github.io  donde XXXX es tu nombre de usuario en github
-
-La página web de Github se podrá visualizar con el siguiente enlace: https://XXXX.github.io (cuando se haya subido el código HTML5) 
+Espero que lo disfruten.
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
-
-
-
-Febrero 2018
+Junio 2020
