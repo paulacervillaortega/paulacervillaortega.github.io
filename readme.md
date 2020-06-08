@@ -1,5 +1,4 @@
-## (Nombre del proyecto)
-
+## Portafolio 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
 
@@ -8,129 +7,83 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
-
-**Web:**   (url github.io)
-
-**Autor:**  (Nombre apellidos)
-
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
-
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
-
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Titulo** : Portafolio artístico
+**Web:**   https://paulacervillaortega.github.io
+**Autor:**  Paula Cervilla Ortega
+**Resumen** : Este proye es un breve portafolio interactivo para que la gente me conozca un poco más, pueda ver algunas de mis obras y realizar un juego mientras escuchan una canción.
+**Estilo/género:**  portafolio
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-**Tamaño proyecto:** 14MB 
-
+**Resolución:** 600x400px
+**Probado en:**   Google  Chrome
+**Tamaño proyecto:** 59MB
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
 **Fecha** : 14/05/2020
 
-**Medios** (donde se tiene presencia relacionada):
-
+**Medios** 
 - Github:
-- Twitter
-- Instagram
 
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
-
-### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
+El proyecto comienza con un menú que deriva a: créditos, obras, biografía y el quizz
 
 
 
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
-
-
+La metología usada es basada en la explicación de profesor, sus videos de apoyo y páginas web de ayuda.
 
 ### Etapa 1: Ideación de proyecto
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
+Me insipiré en el portafolio de una alumna de otro curso, para hacerme una idea de como tendría que crear mi proyecto.
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
-
+Este  proyecto es interesante porque hay información sobre mí, mis obras y un juego sencillo y de aprendizaje.
 
 **Publico / audiencia**
 
-- Orientado a 
-
-
+- Orientado a todo tipo de públicos, el infantil tendría problemas con el quizz ya que es cultura que aún en su mayoría desconocen.
 
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
 - Juego. 
 - Video 
 - Instrucciones y ayuda al usuario 
 - Menús y elementos de navegación (botones)
-- etc.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
-
+El video enlazado de youtube no se consigue ver ni reproducir, causa desconocida
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
+He tenido bastantes problemas ya que es la primera vez utilizando este programa y sus herramientas además de los códigos de programación, aún así he salido satisfecha con el resultado ya que no esperaba poder hacerlo por la dificultad que me ha supuesto crearlo, tengo muchas cosas que mejorar para el futuro pero ya tengo una base y las ideas principales sobre el programa.
 
 
 
 
 # 5 Referencias 
-
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+Portafolio anteriores de otros años a modo de aprendizaje.
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: Youtube  
+* Imágenes: Internet  
+* Tipografía: Arial y Comic Sans
 
 **Herramientas utilizadas**
 
@@ -143,4 +96,4 @@ Este  proyecto es interesante porque ...
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2020
